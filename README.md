@@ -5,15 +5,14 @@
 </p>
 <p align="center">
   <em>A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.</em>
-
+ <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 </p>
----
 
 ### ✨ Turning ideas into clean, creative code
-
+<p align="center">
 🎧 **[Listen to Quran – Nasser Al Qatami (وَأَنْ لَيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ)](https://open.spotify.com/album/6LGokeoUR9fvDzMQ3mkyj0?si=ueQNgjIHR1WWpWAMkrb0-w)**  
-
+</p>
 ---
 
 ### 🌐 Connect with Me
