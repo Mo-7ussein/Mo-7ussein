@@ -1,4 +1,3 @@
-<!-- 💫 Header Section with GIF background -->
 <div align="center" style="
   position: relative;
   width: 100%;
@@ -40,6 +39,37 @@
 
 ---
 
+<p align="center">
+  A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.
+</p>
+
+<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" height="230" width="55%" align="center"/>
+
+---
+
+### ✨ Turning ideas into clean, creative code
+
+🎧 **[Listen to Quran – Nasser Al Qatami (وَأَنْ لَيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ)](https://open.spotify.com/album/6LGokeoUR9fvDzMQ3mkyj0?si=ueQNgjIHR1WWpWAMkrb0-w)**  
+
+---
+
+### 🧠 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,git,linux,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-7ussein&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-7ussein&layout=compact&theme=radical" height="165" />
+</p>
+
+---
+
 ### 🌐 Connect with Me  
 
 <p align="center" style="margin-top: 10px;">
@@ -64,3 +94,9 @@
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
 </p>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff80&height=120&section=footer&fontColor=ffffff)
+
+<i><p align="center">“May your code be clean and your intentions pure 🌙”</p></i>
