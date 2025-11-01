@@ -22,19 +22,24 @@
 
 <p align="center" style="margin-top: 10px;">
   <a href="https://www.facebook.com/share/19vXGzSu83/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
-         style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,255,128,0.4); transition: transform 0.2s;" 
-         onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;"
+         onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 0 15px #00ff80';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
+
   <a href="https://t.me/Mo_7ussein1" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" 
-         style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,255,128,0.4); transition: transform 0.2s;" 
-         onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;"
+         onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 0 15px #00ff80';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
+
   <a href="https://wa.me/201093182476" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
-         style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,255,128,0.4); transition: transform 0.2s;" 
-         onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;"
+         onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 0 15px #00ff80';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
 </p>
 
