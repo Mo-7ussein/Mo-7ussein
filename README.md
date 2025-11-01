@@ -8,7 +8,7 @@
 
 <br>
 
-![Uploading giphy.gif…](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHByaXUxeHNvYzZzN3FlaTV6enV6bWlxbXdmczNseGVwMXFwZGJsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" height="230" width="55%"/>
 
 ---
 
