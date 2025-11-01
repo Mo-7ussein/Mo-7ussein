@@ -2,13 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00ff80&height=180&section=header&text=Hey%20I'm%20Mohamed%20Hussein%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1200&color=00FF80&center=true&vCenter=true&width=700&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <p>A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.</p>
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="60%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" height="165" width="55%"/>
 
 ---
 
@@ -31,15 +31,26 @@
 
 ### 🌐 Connect with Me  
 
-<p align="center">
+<p align="center" style="margin-top: 10px;">
   <a href="https://www.facebook.com/share/19vXGzSu83/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010&color=1877F2" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;"
+         onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 0 15px #00ff80';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
+
   <a href="https://t.me/Mo_7ussein1" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010&color=2CA5E0" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;"
+         onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 0 15px #00ff80';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
+
   <a href="https://wa.me/201093182476" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010&color=25D366" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;"
+         onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 0 15px #00ff80';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
 </p>
 
