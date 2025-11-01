@@ -1,13 +1,21 @@
-![giphy](https://github.com/user-attachments/assets/44520e26-d107-48cc-a62d-bf173f1983f5)<div align="center">
+<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00ff80&height=180&section=header&text=Hey%20I'm%20Mohamed%20Hussein%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35)
+<!-- 🌊 الخلفية المتحركة + العنوان + الأنيميشن -->
+<div style="position: relative; width: 100%; overflow: hidden; height: 250px; border-radius: 10px;">
+  <img src="https://media4.giphy.com/media/fNFfDeyLA20x4c0DmR/giphy.gif"
+       alt="Animated background"
+       style="width: 100%; height: 100%; object-fit: cover; opacity: 0.35;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+              color: white; text-shadow: 0 0 8px #00ff80; text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff80&height=80&section=header&text=Hey%20I'm%20Mohamed%20Hussein%20👋&fontSize=30&fontColor=ffffff&fontAlignY=35" />
+
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!"
+         alt="Typing SVG" />
+  </div>
+</div>
 
 <p>A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.</p>
-
-![Uploading giphy.gif…](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVpc3V4MXRxbjA2NTRla2szb25iNmFpZnM3ZndmNWtjbnB2OTJuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNFfDeyLA20x4c0DmR/giphy.gif)
-
 
 <br>
 
