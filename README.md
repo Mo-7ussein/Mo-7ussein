@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00ff80&height=180&section=header&text=Hey%20I'm%20Mohamed%20Hussein%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=500&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <p>A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.</p>
 
@@ -15,6 +15,17 @@
 ### ✨ Turning ideas into clean, creative code
 
 🎧 **[Listen to Quran – Nasser Al Qatami (وَأَنْ لَيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ)](https://open.spotify.com/album/6LGokeoUR9fvDzMQ3mkyj0?si=ueQNgjIHR1WWpWAMkrb0-w)**  
+
+---
+
+### 🧠 Languages & Tools  
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,git,linux,vscode" />
+
+---
+
+### 📊 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Mo-7ussein&show_icons=true&theme=radical" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-7ussein&layout=compact&theme=radical" height="165" />
 
 ---
 
@@ -42,17 +53,6 @@
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
 </p>
-
----
-
-### 🧠 Languages & Tools  
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,git,linux,vscode" />
-
----
-
-### 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Mo-7ussein&show_icons=true&theme=radical" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-7ussein&layout=compact&theme=radical" height="165" />
 
 ---
 
