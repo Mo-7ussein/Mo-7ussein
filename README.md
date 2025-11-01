@@ -10,11 +10,10 @@
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedHussein&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamedHussein&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram Badge](https://img.shields.io/badge/Mohamed_Hussein-grey?style=flat&logo=telegram)](https://t.me/your_username)
+![Facebook Profile](https://komarev.com/ghpvc/?username=MohamedHussein&style=flat&color=orange&label=PROFILE+VIEWS)
+![WhattsApp](https://i.pinimg.com/originals/1c/1b/07/1c1b072779dc9ce931b22361b9e2f5e6.jpg)(https://wa.me/201093182476)
+[![Telegram Badge](https://img.shields.io/badge/Mohamed_Hussein-grey?style=flat&logo=telegram)](https://t.me/Mo_7ussein1)
 </div>
-
 ---
 
 ### 👋 Hey, I’m **Mohamed Hussein**  
