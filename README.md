@@ -1,12 +1,15 @@
 <div align="center">
 
-![giphy background](https://media4.giphy.com/media/fNFfDeyLA20x4c0DmR/giphy.gif)
+<!-- 🎞️ خلفية متحركة بعرض الصفحة -->
+<img src="https://media4.giphy.com/media/fNFfDeyLA20x4c0DmR/giphy.gif" width="100%" style="margin-bottom: -60px; opacity: 0.6;"/>
 
+<!-- 👋 الهيدر فوق الخلفية -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff80&height=180&section=header&text=Hey%20I'm%20Mohamed%20Hussein%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<!-- ✨ الكتابة المتحركة -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=700&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-<p style="text-shadow: 0 0 10px #00ff80;">
+<p align="center" style="text-shadow: 0 0 8px #00ff80; color: white;">
 A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.
 </p>
 
@@ -35,17 +38,15 @@ A passionate Computer Engineer who loves coding, problem-solving, and exploring 
 
 ### 🌐 Connect with Me  
 
-<p align="center" style="margin-top: 10px;">
+<p align="center">
   <a href="https://www.facebook.com/share/19vXGzSu83/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
          style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;" />
   </a>
-
   <a href="https://t.me/Mo_7ussein1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
          style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;" />
   </a>
-
   <a href="https://wa.me/201093182476" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
          style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;" />
