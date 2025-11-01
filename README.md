@@ -5,10 +5,9 @@
 </p>
 <p align="center">
   <em>A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.</em>
-</p>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
-
+</p>
 ---
 
 ### ✨ Turning ideas into clean, creative code
