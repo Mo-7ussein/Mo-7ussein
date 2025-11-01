@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=500&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+<p align="center">
+  <em>A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.</em>
+</p>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
 ---
 
@@ -30,8 +35,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mo7ussein1&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7ussein1&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-7ussein&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-7ussein&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
