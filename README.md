@@ -1,21 +1,14 @@
 <div align="center">
 
-<!-- 🌊 الخلفية المتحركة + العنوان + الأنيميشن -->
-<div style="position: relative; width: 100%; overflow: hidden; height: 250px; border-radius: 10px;">
-  <img src="https://media4.giphy.com/media/fNFfDeyLA20x4c0DmR/giphy.gif"
-       alt="Animated background"
-       style="width: 100%; height: 100%; object-fit: cover; opacity: 0.35;">
+![giphy background](https://media4.giphy.com/media/fNFfDeyLA20x4c0DmR/giphy.gif)
 
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-              color: white; text-shadow: 0 0 8px #00ff80; text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff80&height=80&section=header&text=Hey%20I'm%20Mohamed%20Hussein%20👋&fontSize=30&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff80&height=180&section=header&text=Hey%20I'm%20Mohamed%20Hussein%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35" />
 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!"
-         alt="Typing SVG" />
-  </div>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-<p>A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.</p>
+<p style="text-shadow: 0 0 10px #00ff80;">
+A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.
+</p>
 
 <br>
 
@@ -45,23 +38,17 @@
 <p align="center" style="margin-top: 10px;">
   <a href="https://www.facebook.com/share/19vXGzSu83/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;"
-         onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 0 15px #00ff80';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;" />
   </a>
 
   <a href="https://t.me/Mo_7ussein1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;"
-         onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 0 15px #00ff80';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;" />
   </a>
 
   <a href="https://wa.me/201093182476" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;"
-         onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 0 15px #00ff80';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+         style="border-radius: 10px; border: 2px solid #00ff80; transition: all 0.3s ease; padding: 2px;" />
   </a>
 </p>
 
