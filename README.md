@@ -1,59 +1,45 @@
-<!-- 🌙 Dark Creative README by ChatGPT x Mohamed Hussein -->
-
 <div align="center">
 
-  <!-- 3D Header -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Mohamed+Hussein+👋;Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </h1>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Mohamed+Hussein+👋;Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
-  <!-- Subheading -->
-  <p align="center">
-    <strong>Turning ideas into clean, creative code ✨</strong>
-  </p>
+---
 
-  <!-- Quran Button (3D style) -->
-  <a href="https://open.spotify.com/track/6cmrS3aHhDyzmTEKNL5CBI?si=8aab1b8e3b8742ef" target="_blank" style="text-decoration:none;">
-    <button style="
-      background: linear-gradient(145deg, #0a0a0a, #1e1e1e);
-      color: #00ff99;
-      border: none;
-      border-radius: 15px;
-      padding: 12px 25px;
-      margin: 20px;
-      font-size: 18px;
-      font-family: 'Fira Code', monospace;
-      cursor: pointer;
-      box-shadow: 0 5px 15px rgba(0,255,150,0.3);
-      transition: all 0.3s ease;
-    " onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 25px rgba(0,255,150,0.6)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 5px 15px rgba(0,255,150,0.3)';">
-      🎧 Quran — Nasser Al-Qatami (وَأَنْ لَيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ)
-    </button>
-  </a>
+### ✨ Turning ideas into clean, creative code
 
-  <!-- Social Links -->
-  <div align="center" style="margin-top: 30px;">
-    <a href="https://www.facebook.com/share/19vXGzSu83/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://t.me/Mo_7ussein1" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-    <a href="https://wa.me/201093182476" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
-  </div>
+🎧 **[Listen to Quran – Nasser Al Qatami (وَأَنْ لَيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ)](https://open.spotify.com/album/6LGokeoUR9fvDzMQ3mkyj0?si=ueQNgjIHR1WWpWAMkrb0-w)**  
 
-  <!-- GitHub Stats -->
-  <div align="center" style="margin-top:40px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mo7ussein1&show_icons=true&theme=radical" height="180em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7ussein1&layout=compact&theme=radical" height="180em" />
-  </div>
+---
 
-  <!-- Footer -->
-  <br />
-  <p align="center">
-    <em>"May your code be clean and your intentions pure 🌙"</em>
-  </p>
+### 🌐 Connect with Me  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19vXGzSu83/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mo_7ussein1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201093182476)
+
+---
+
+### 🧠 Languages & Tools  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=mo7ussein1&show_icons=true&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7ussein1&layout=compact&theme=radical)
+
+---
+
+### 🌙
+> *"May your code be clean and your intentions pure 🌙"*
 
 </div>
