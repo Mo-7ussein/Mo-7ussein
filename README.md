@@ -3,11 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1000&color=00FF80&center=true&vCenter=true&width=500&lines=Computer+Engineer+%7C+Problem+Solver+%7C+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
-<p align="center">
+<div align="center">
   <p>A passionate Computer Engineer who loves coding, problem-solving, and exploring new technologies.</p>
  <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
-</p>
+</div>
 <div align="center">
 ### ✨ Turning ideas into clean, creative code
 
