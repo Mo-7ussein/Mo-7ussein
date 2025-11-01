@@ -6,7 +6,8 @@
 <details>
 <p><strong> <summary> 🎧  Coding & Vibing to :  </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+[![Spotify](https://open.spotify.com/track/4wdfEsIYIIjG7t32qDeWdG?si=dc6b3f7005754ece)](https://open.spotify.com/)
+
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedHussein&style=flat&color=orange&label=PROFILE+VIEWS)
